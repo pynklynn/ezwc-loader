@@ -1,6 +1,6 @@
 # ezwc-loader
 
-Webpack loader for [EZWC](https://github.com/pynklynn/ezwc-cli). Requires Webpack version 4.
+Webpack loader for [EZWC](https://github.com/pynklynn/ezwc). Requires Webpack version 4.
 
 ## Usage
 
