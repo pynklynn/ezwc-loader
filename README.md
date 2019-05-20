@@ -25,3 +25,5 @@ module.exports = {
   }
 };
 ```
+
+(c) 2019 Pynk Lynn LLC
