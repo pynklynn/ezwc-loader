@@ -1,6 +1,6 @@
 {
   "name": "ezwc-loader",
-  "version": "0.3.0",
+  "version": "1.0.0-beta.1",
   "description": "Webpack loader for EZWC files",
   "main": "index.js",
   "scripts": {},
@@ -11,6 +11,6 @@
   "author": "Will Steinmetz",
   "license": "MIT",
   "dependencies": {
-    "ezwc-cli": "^0.20.0"
+    "ezwc-cli": "^1.0.0-beta.1"
   }
 }
